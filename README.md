@@ -9,6 +9,8 @@
 
 <div style="display: inline_block"><br>
  
+            https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
   
 </div>
 
