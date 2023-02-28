@@ -4,6 +4,7 @@
   <a href="https://github.com/thalia-dani">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thalia-dani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thalia-dani&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://git.io/streak-stats"><img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=radical"/></a>
 
 </div>
 
@@ -11,7 +12,8 @@
   
   <img align="center" alt="Dani-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
-     
+  
+
 </div>
 
 ##
