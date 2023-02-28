@@ -1,7 +1,7 @@
 <img src="/header.png"/>
 
 <h2 align="center">My Github Status</h2>
-##
+
 
 <div align="center">
   <a href="https://github.com/thalia-dani">
