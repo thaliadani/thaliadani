@@ -1,4 +1,6 @@
-## Olá! Eu sou Thalia Danielle
+<img src="/header.png"/>
+
+##
 
 <div align="center">
   <a href="https://github.com/thalia-dani">
