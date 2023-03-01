@@ -24,9 +24,9 @@
   <a href="https://github.com/thaliadani">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaliadani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&langs_count=7&theme=radical"/>
-  <a href="https://git.io/streak-stats"><img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=radical"/></a>
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=radical"/>
+  </a>
 
-
-  ![Snake animation](https://github.com/thalia-dani/thalia-dani/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/thaliadani/thaliadani/blob/output/github-contribution-grid-snake.svg)
  
 </div>
