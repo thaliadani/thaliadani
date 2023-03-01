@@ -21,7 +21,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=D83B7D&background=141321&center=true&vCenter=true&width=1000&lines=My+Github+Status" alt="Typing SVG" /></a>
 
 <div align="center">
-  <a href="https://github.com/thalia-dani">
+  <a href="https://github.com/thaliadani">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaliadani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&langs_count=7&theme=radical"/>
   <a href="https://git.io/streak-stats"><img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=radical"/></a>
