@@ -1,8 +1,11 @@
 <img src="/header.png"/>
 
-<a href = "mailto:thaliadani2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div style="display:flex" flex-direction:"row" >
 
+  <a href = "mailto:thaliadani2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/thalia-danielle-21b968221/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+ </div>
 
 <div style="display: inline_block" align="center"><br>
   
@@ -19,15 +22,11 @@
 
 <div align="center">
   <a href="https://github.com/thalia-dani">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaliadani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&langs_count=7&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaliadani&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&langs_count=7&theme=radical"/>
   <a href="https://git.io/streak-stats"><img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=radical"/></a>
 
-</div>
 
-<div> 
- 
-  
   ![Snake animation](https://github.com/thalia-dani/thalia-dani/blob/output/github-contribution-grid-snake.svg)
  
 </div>
