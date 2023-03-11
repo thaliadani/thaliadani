@@ -9,7 +9,7 @@
 
 <div style="display: inline_block" align="center"><br>
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=D83B7D&background=141321&center=true&vCenter=true&width=1000&lines=Technology+Stack" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=2aa788&background=000000&center=true&vCenter=true&width=1000&lines=Technology+Stack" alt="Typing SVG" /></a>
   
   <img align="center" alt="Dani-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Dani-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
@@ -18,14 +18,14 @@
 
 <div style="display: inline_block" align="center"><br>
  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=D83B7D&background=141321&center=true&vCenter=true&width=1000&lines=My+Github+Status" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=2aa788&background=000000&center=true&vCenter=true&width=1000&lines=My+Github+Status" alt="Typing SVG" /></a>
 
 <div align="center">
 
   <a href="https://github.com/thaliadani">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaliadani&theme=radical"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&theme=radical"/>
-    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaliadani&theme=gotham"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&theme=gotham"/>
+    <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=gotham"/>
   </a>
 
   ![Snake animation](https://github.com/thaliadani/thaliadani/blob/output/github-contribution-grid-snake.svg)
