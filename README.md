@@ -12,7 +12,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=24&pause=1000&color=2aa788&background=202020&center=true&vCenter=true&width=1000&lines=Technology+Stack" alt="Typing SVG" /></a>
   
   <img align="center" alt="Dani-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Dani-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">   
+  <img align="center" alt="Dani-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
+  <br>
+  <img align="center" alt="Dani-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
+  <img align="center" alt="Dani-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"> 
   
 </div>
 
