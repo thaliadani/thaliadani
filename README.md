@@ -27,10 +27,7 @@ Hi 👋 My name is Thalia
 
   <a href="https://github.com/thaliadani">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaliadani&show_icons=true&theme=dracula"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&show_icons=true&theme=dracula"/>
-    
-  <a href="https://git.io/streak-stats"><img  height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=thaliadani&theme=dracula&border_radius=4.3&locale=en_US&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-    
-  </a>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&show_icons=true&theme=dracula"/> 
+ </a>
 
 </div>
