@@ -30,6 +30,6 @@ Hi 👋 My name is Thalia
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&show_icons=true&theme=dracula"/> 
  </a>
 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thaliadani&theme=dracula&locale=pt_BR" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-six-eta.vercel.app?user=thaliadani&theme=dracula" alt="GitHub Streak" /></a>
 
 </div>
