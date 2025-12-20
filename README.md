@@ -5,7 +5,7 @@
 
 ================================
 
-<p align="left">Sou <strong>Desenvolvedora</strong><br> apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Adoro criar e desenvolver sites, transformando ideias em soluções digitais funcionais e atraentes. Quando não estou imersa no mundo da programação, dedico meu tempo livre a jogar games, assistir séries e filmes. 
+<p align="left">Sou <strong>Desenvolvedora</strong><br> apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Adoro criar e desenvolver sites, transformando ideias em soluções digitais funcionais e atraentes. Quando não estou imersa no mundo da programação, dedico meu tempo livre a jogar games,ler livros, assistir séries e filmes. 
 </p>
 
 <a href = "mailto:thaliaadani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -31,13 +31,14 @@
   <img align="center" alt="html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> 
   <img align="center" alt="js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="nodejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+  <img align="center" alt="js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align="center" alt="js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" />
   <img align="center" alt="js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="sass" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"> 
   <img align="center" alt="tailwind" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img align="center" alt="tailwind" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="nodejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
   <img align="center" alt="react" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />  
   <img align="center" alt="react" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />      
 
