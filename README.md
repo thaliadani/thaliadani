@@ -5,7 +5,7 @@
 
 ================================
 
-<p align="left">Sou <strong>Desenvolvedora</strong><br> apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Adoro criar e desenvolver sites, transformando ideias em soluções digitais funcionais e atraentes. Quando não estou imersa no mundo da programação, dedico meu tempo livre a jogar games, ler livros, assistir séries e filmes. 
+<p align="left">Sou <strong>Desenvolvedora</strong> apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Adoro criar e desenvolver sites, transformando ideias em soluções digitais funcionais e atraentes. Quando não estou imersa no mundo da programação, dedico meu tempo livre a jogar games, ler livros, assistir séries e filmes. 
 </p>
 
 <a href = "mailto:thaliaadani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
