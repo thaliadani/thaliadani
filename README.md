@@ -1,19 +1,16 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right"> <br><br><br>
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="400px" align="right">
 <h3>Hi 👋 My name is Thalia</h3>
-
 <p align="left">
   Sou <strong>Desenvolvedora</strong> apaixonada por tecnologia e estou sempre em busca de novos conhecimentos e desafios. Adoro criar e desenvolver sites, transformando ideias em soluções digitais funcionais e atraentes. Quando não estou imersa no mundo da programação, dedico meu tempo livre a jogar games, ler livros, assistir séries e filmes. 
 </p>
-
 <a href="mailto:thaliaadani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/thaliadani" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
+</div> 
+<br><br><br>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6E96&background=282A36&center=true&vCenter=true&width=1000&lines=Tools" alt="Typing SVG" /></a>
-
+   <br><br>
   <table>
     <tr>
       <td><img alt="vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"></td>
@@ -23,9 +20,9 @@
       <td><img alt="figma" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"></td>
     </tr>
   </table>
-
+  <br>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6E96&background=282A36&center=true&vCenter=true&width=1000&lines=Technology+Stack" alt="Typing SVG" /></a>
-
+  <br><br>
   <table>
     <tr>
       <td><img alt="html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></td>
@@ -43,10 +40,10 @@
       <td><img alt="reactnative" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg"></td>
     </tr>
   </table>
+  <br>
   </div>
-
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6E96&background=282A36&center=true&vCenter=true&width=1000&lines=My+Github+Status" alt="Typing SVG" /></a>
-
+  <br><br>
   <div align="center">
     <a href="https://github.com/thaliadani">
       <img height="185px" src="https://github-readme-stats.vercel.app/api?username=thaliadani&show_icons=true&theme=omni">  <br>
