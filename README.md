@@ -42,12 +42,5 @@
   </table>
   <br>
   </div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF6E96&background=282A36&center=true&vCenter=true&width=1000&lines=My+Github+Status" alt="Typing SVG" /></a>
-  <br><br>
-  <div align="center">
-    <a href="https://github.com/thaliadani">
-      <img height="185px" src="https://github-readme-stats.vercel.app/api?username=thaliadani&show_icons=true&theme=omni">  <br>
-      <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaliadani&layout=compact&show_icons=true&theme=omni">
-    </a>
-  </div>
+
 </div>
